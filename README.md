@@ -1,5 +1,5 @@
 # LearnDocker
-
+  Курс от Слёрма https://cloud.mail.ru/public/nF2k/z1ogTruBB  
   https://habr.com/ru/post/310460/
 
 ## Установка на винде 10 (WSL2)
